@@ -1,0 +1,6 @@
+---
+- name: play1
+  host: all
+  tasks:
+  - name: 'executing command'
+    command: date 
